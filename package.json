@@ -1,0 +1,10 @@
+{
+  "name": "ki-click-to-component",
+  "version": "1.0.0",
+  "description": "react click to component tool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kitiho",
+  "license": "MIT"
+}

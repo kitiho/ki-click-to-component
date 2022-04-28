@@ -1,0 +1,36 @@
+{
+  "name": "@kitiho/click-to-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react",
+    "vue",
+    "dx",
+    "vscode",
+    "devtools"
+  ],
+  "author": "kitiho",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "dependencies": {
+    "@floating-ui/react-dom-interactions": "^0.3.1",
+    "htm": "^3.1.0",
+    "react-merge-refs": "^1.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "@types/react": "^18.0.6",
+    "@types/react-reconciler": "^0.26.6",
+    "eslint": "^8.0.0",
+    "@antfu/eslint-config": "^0.21.1",
+    "@types/node": "^17.0.29",
+    "unbuild": "^0.7.4"
+  }
+}
