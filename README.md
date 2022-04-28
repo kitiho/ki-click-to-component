@@ -1,6 +1,7 @@
 # ki-click-to-component
 
-## <ClickToComponent />
+## ClickToComponent
+
 > forked from [click-to-component](https://github.com/ericclemmons/click-to-component), rewrite by typescript for **learning**.
 
 
